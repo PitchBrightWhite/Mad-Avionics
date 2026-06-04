@@ -1,0 +1,5 @@
+# 1.1
+- Fixed issue with miss-labeled mod_info.json, dependencies should be listed correctly now, accidentally used diable avionics version as this mod's version
+
+# 2.91
+- Initial release

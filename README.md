@@ -22,6 +22,7 @@
 - If you wish for permission to modify, fork, edit, integrate, or do anything with this mod / its assets please let me know, otherwise feel free.
 - I made this primarily for myself and thought people might like my work.
 In the case of re-balancing, suggestions, and updates I'm open to it but can't guarantee anything.
+- I've uploaded a repository of all of the krita Files I used to make the mod sprites, Thought people might like these resources: https://github.com/PitchBrightWhite/Mad-Avionics-Spriting-Kit/tree/main
 
 Hope you enjoy.
 Thank you for your time 

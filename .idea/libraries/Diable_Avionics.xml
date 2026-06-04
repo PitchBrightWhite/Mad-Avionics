@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Diable_Avionics">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Diable-Avionics/jars/Diable_Avionics.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

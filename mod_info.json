@@ -1,0 +1,21 @@
+{
+  "id":"madavionics",
+	"name":"Mad Avionics",
+	"author":"PitchBrightWhite - Credits from the original Diable Avionics, by Flashfrozen, Maintained by Tartiflette, with the participation of Debido. Code referenced from Scalar Tech Solutions",	
+	"version":
+        {
+            "major": 1,
+            "minor": 1,
+            "patch": 0
+        },
+	"description":"Too volatile for a fleet. Too effective to ignore. Every system pushed far past what corporate would ever sanction, the progeny of some mad man.",
+    "gameVersion":"0.98a-RC5",
+    "dependencies": [
+        {
+            "id": "diableavionics",
+            "name": "Diable Avionics",
+            "version": "2.9.5.1"
+        }
+    ],
+  "jars": [ "jars/MadAvionics.jar" ],
+}

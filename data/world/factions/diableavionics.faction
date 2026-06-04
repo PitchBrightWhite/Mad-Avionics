@@ -1,0 +1,20 @@
+{
+    "hullFrequency":{
+        "hulls":{
+            "diableavionics_mirage":0,
+            "diableavionics_drought":1,
+            "diableavionics_flood_t":0.1,
+            "diableavionics_flood_f":0.7,
+        },
+    },
+
+    "knownShips":{
+        "hulls":[
+            "diableavionics_mirage",
+            "diableavionics_drought",
+            "diableavionics_flood_t",
+            "diableavionics_flood_f",
+
+        ],
+    },
+},

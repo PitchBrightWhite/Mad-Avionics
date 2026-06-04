@@ -1,0 +1,140 @@
+{
+    "hullName": "Starboard Bulwark",
+    "hullId": "diableavionics_godhead_r_f",
+    "hullSize": "DESTROYER",
+    "style": "HIGH_TECH",
+    "spriteName": "graphics/da/ships/diableavionics_godhead_r_f.png",
+    "height": 358,
+    "width": 145,
+    "center": [
+        72.5, 190
+    ],
+    "collisionRadius": 174,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 192,
+    "viewOffset": 0,
+    "builtInMods": [
+        "madavionics_godmod",
+        "madavionics_gel",
+        "always_detaches",
+        "reduced_explosion",
+        "diableavionics_mountBI",
+        "diableavionics_universaldecksExtra"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "LARGE",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 340,
+            "locations": [
+                      95,     19.5
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "LARGE",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 210,
+            "angle": 330,
+            "locations": [
+                      42,     -9.5
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 110,
+            "angle": 300,
+            "locations": [
+                      -3,    -32.5
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 110,
+            "angle": 300,
+            "locations": [
+                     -19,    -24.5
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 110,
+            "angle": 300,
+            "locations": [
+                     -35,    -32.5
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 90,
+            "angle": 330,
+            "locations": [
+                     -84,     10.5
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 90,
+            "angle": 310,
+            "locations": [
+                    -160,     10.5
+            ]
+        },
+        {
+            "id": "LB 000",
+            "size": "LARGE",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                   -71.5,      -23,
+                   -68.5,      -35,
+                   -90.5,      -31
+            ]
+        }
+    ],
+    "engineSlots": [],
+    "bounds": [
+             167,     72.5,
+             168,    -71.5,
+             119,    -51.5,
+              32,    -51.5,
+             -20,    -46.5,
+        
+             -12,    -58.5,
+             -42,    -44.5,
+           -65.5,      -50,
+           -93.5,      -43,
+          -104.5,      -32,
+        
+            -172,    -31.5,
+            -190,       10,
+          -177.5,       24
+    # 13 points total.
+    ]
+}

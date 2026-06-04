@@ -1,0 +1,19 @@
+{
+    "displayName": "Prototype",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "diableavionics_godhead_l_b",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "diableavionics_godhead_l_b_prototype",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "diableavionics_microarray"
+            }
+        }
+    ]
+}

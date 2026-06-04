@@ -1,0 +1,40 @@
+{
+    "displayName": "Ravenous",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "diableavionics_drought",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "diableavionics_drought_ravenous",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 012": "hammerrack",
+                "WS 014": "hammerrack",
+                "WS 013": "hammerrack",
+                "WS 000": "mininglaser",
+                "WS 002": "mininglaser",
+                "WS 004": "mininglaser",
+                "WS 010": "mininglaser",
+                "WS 008": "mininglaser",
+                "WS 006": "mininglaser",
+                "WS 018": "miningblaster",
+                "WS 016": "miningblaster",
+                "WS 020": "miningblaster",
+                "WS 019": "miningblaster",
+                "WS 017": "miningblaster",
+                "WS 021": "miningblaster",
+                "WS 007": "mininglaser",
+                "WS 009": "mininglaser",
+                "WS 011": "mininglaser",
+                "WS 005": "mininglaser",
+                "WS 003": "mininglaser",
+                "WS 001": "mininglaser",
+                "WS 015": "hammerrack"
+            }
+        }
+    ]
+}

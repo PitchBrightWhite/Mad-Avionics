@@ -1,0 +1,7 @@
+"C:/Program Files (x86)/Fractal Softworks/Starsector/mods/Mad-Avionics/src/data/hullmods/DiableAvionicsBoom.java" 
+"C:/Program Files (x86)/Fractal Softworks/Starsector/mods/Mad-Avionics/src/data/hullmods/DiableAvionicsGel.java" 
+"C:/Program Files (x86)/Fractal Softworks/Starsector/mods/Mad-Avionics/src/data/hullmods/DiableAvionicsGodCore.java" 
+"C:/Program Files (x86)/Fractal Softworks/Starsector/mods/Mad-Avionics/src/data/hullmods/DiableAvionicsGodEcm.java" 
+"C:/Program Files (x86)/Fractal Softworks/Starsector/mods/Mad-Avionics/src/data/hullmods/DiableAvionicsGodMod.java" 
+"C:/Program Files (x86)/Fractal Softworks/Starsector/mods/Mad-Avionics/src/data/hullmods/DiableAvionicsJunk.java" 
+"C:/Program Files (x86)/Fractal Softworks/Starsector/mods/Mad-Avionics/src/data/shipsystems/scripts/Diableavionics_godhead_drift.java" 

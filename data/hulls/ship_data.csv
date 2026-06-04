@@ -1,0 +1,19 @@
+name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,hints,tags,rarity,breakProb,minPieces,maxPieces,travel drive,number
+# SUPER CARRIER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Godhead,diableavionics_godhead,Super Carrier,Diable Avionics,diableavionics_god_drift,90,16000,800,22000,,1300,360,2,40,12,8,6,2,3500,FRONT,,70,0.4,1,,,900,3000,3500,1000,25,40,8,10000000,10,25,800,0.15,170,170,"HIDE_IN_CODEX, SHIP_WITH_MODULES","no_bp_drop, restricted, no_drop_salvage, rare_bp, nex_buy_ship_mission_exclude",5,0.5,3,5,,50
+,diableavionics_godhead_l_f,Port Bulwark,Diable Avionics,damper,,8000,1100,6000,,500,140,1,,12,8,6,2,3000,NONE,,,,,,,,,,,,,,,,,700,0.15,,,"UNBOARDABLE, HIDE_IN_CODEX",,,1,2,4,,51
+,diableavionics_godhead_r_f,Starboard Bulwark,Diable Avionics,damper,,8000,1100,6000,,500,140,1,,12,8,6,2,3000,NONE,,,,,,,,,,,,,,,,,700,0.15,,,"UNBOARDABLE, HIDE_IN_CODEX",,,1,2,4,,51
+,diableavionics_godhead_c,Central Super Structure,Diable Avionics,diableavionics_quantumimpulse,,12000,700,4000,,400,130,4,,12,8,6,2,2000,NONE,,,,,,,,,,,,,,,,,600,0.2,,,"UNBOARDABLE, HIDE_IN_CODEX",,,1,2,4,,51
+,diableavionics_godhead_l_b,Port Wing,Diable Avionics,highenergyfocus,,5000,900,8000,,600,110,,,12,8,6,2,2500,NONE,,,,,,,,,,,,,,,,,700,0.15,,,"UNBOARDABLE, HIDE_IN_CODEX",,,1,2,4,,51
+,diableavionics_godhead_r_b,Starboard Wing,Diable Avionics,highenergyfocus,,5000,900,8000,,600,110,,,12,8,6,2,2500,NONE,,,,,,,,,,,,,,,,,700,0.15,,,"UNBOARDABLE, HIDE_IN_CODEX",,,1,2,4,,51
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,diableavionics_godhead_base_l,Base Structure,,,1,5000,9999,0,2500,100,0,,0,0,0,10,10,1,NONE,,0,0,0,,,,,,,,,,,,,840,0,,,"UNDER_PARENT, UNBOARDABLE, HIDE_IN_CODEX","module_no_status_bar, module_unselectable, module_refit_bright",,1,0,0,,
+,diableavionics_godhead_base_r,Base Structure,,,1,5000,9999,0,2500,100,0,,0,0,0,10,10,1,NONE,,0,0,0,,,,,,,,,,,,,840,0,,,"UNDER_PARENT, UNBOARDABLE, HIDE_IN_CODEX","module_no_status_bar, module_unselectable, module_refit_bright",,1,0,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# PHASE DESTROYER,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mirage,diableavionics_mirage,Phase Destroyer,Diable Avionics,mine_strike,20,5100,900,7000,,800,120,,90,55,60,30,35,450,PHASE,phasecloak,,,,0.04,0.03,30,40,30,90,3,,10,210000,5,20,440,0.2,20,20,,"diable_ship_bp,rare_bp",,0.35,2,3,,40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# LOGISTIC SHIPS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Drought,diableavionics_drought,Mobile Ship Yard,Diable Avionics,highenergyfocus,25,20000,1800,15000,,900,210,4,50,8,2,3,2,5000,OMNI,,180,0.5,0.9,,,400,600,1500,1500,10,150,6,280000,10,20,720,0.25,40,40,"CARRIER, COMBAT","diable_ship_bp, rare_bp",,0.7,2,4,,52
+Flood Freighter,diableavionics_flood_f,Super Freighter,Diable Avionics,burndrive,15,18000,1200,13000,,700,180,,40,8,2,3,2,6000,OMNI,,270,0.5,0.9,,,100,200,10000,1000,10,100,6,200000,5,20,660,0.25,20,20,"CIVILIAN, FREIGHTER","diable_ship_bp, rare_bp",,0.7,2,4,,53
+Flood Tanker,diableavionics_flood_t,Super Tanker,Diable Avionics,burndrive,15,15000,1400,13000,,700,180,,40,8,2,3,2,6000,OMNI,,270,0.5,0.9,,,100,200,500,10000,10,1000,6,200000,5,20,660,0.25,20,20,"CIVILIAN, TANKER","diable_ship_bp, rare_bp",,0.9,3,5,,54

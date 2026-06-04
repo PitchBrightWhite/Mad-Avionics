@@ -1,0 +1,22 @@
+{
+    "displayName": "Prototype",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "diableavionics_godhead_c",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "diableavionics_godhead_c_prototype",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "diableavionics_magicboxPodbuiltin",
+                "WS 006": "diableavionics_magicboxPodbuiltin",
+                "WS 008": "diableavionics_magicboxPodbuiltin",
+                "WS 009": "diableavionics_magicboxPodbuiltin"
+            }
+        }
+    ]
+}

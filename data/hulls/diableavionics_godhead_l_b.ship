@@ -1,0 +1,149 @@
+{
+    "hullName": "Port Wing",
+    "hullId": "diableavionics_godhead_l_b",
+    "hullSize": "CRUISER",
+    "style": "HIGH_TECH",
+    "spriteName": "graphics/da/ships/diableavionics_godhead_l_b.png",
+    "height": 259,
+    "width": 110,
+    "center": [
+        55, 129.5
+    ],
+    "collisionRadius": 143,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 143,
+    "viewOffset": 0,
+    "builtInMods": [
+        "madavionics_godmod",
+        "madavionics_gel",
+        "always_detaches",
+        "diableavionics_mountBI",
+        "reduced_explosion",
+        "advancedcore",
+        "advanced_ground_support"
+    ],
+    "builtInWeapons": {
+        "WS 002": "diableavionics_microarray"
+    },
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "LARGE",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 90,
+            "angle": 15,
+            "locations": [
+                    17.5,      -29
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "LARGE",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 90,
+            "angle": 15,
+            "locations": [
+                   -42.5,        7
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "LARGE",
+            "type": "BUILT_IN",
+            "mount": "HIDDEN",
+            "arc": 50,
+            "angle": 60.5,
+            "locations": [
+                      36,      6.5
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 230,
+            "angle": 90,
+            "locations": [
+                   -50.5,       37
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 230,
+            "angle": 110,
+            "locations": [
+                   -71.5,       24
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 230,
+            "angle": 130,
+            "locations": [
+                   -90.5,        8
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -119, -23
+            ],
+            "length": 40,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "DiableAvionicsTrail"
+        },
+        {
+            "location": [
+                -123, -8
+            ],
+            "length": 40,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "DiableAvionicsTrail"
+        },
+        {
+            "location": [
+                -127, 7
+            ],
+            "length": 40,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "DiableAvionicsTrail"
+        }
+    ],
+    "bounds": [
+           129.5,      -48,
+           -19.5,      -46,
+           -51.5,      -26,
+          -117.5,      -30,
+          -129.5,       37,
+        
+             -66,     54.5,
+             -34,     42.5,
+             -30,     47.5,
+           108.5,      -28,
+           109.5,      -38,
+        
+           121.5,      -36
+    # 11 points total.
+    ]
+}

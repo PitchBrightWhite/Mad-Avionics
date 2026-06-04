@@ -1,0 +1,479 @@
+{
+    "hullName": "Flood Freighter",
+    "hullId": "diableavionics_flood_f",
+    "hullSize": "CAPITAL_SHIP",
+    "style": "HIGH_TECH",
+    "spriteName": "graphics/da/ships/diableavionics_flood_f.png",
+    "height": 597,
+    "width": 428,
+    "center": [
+        214, 298.5
+    ],
+    "collisionRadius": 316,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 316,
+    "viewOffset": 0,
+    "builtInMods": [
+        "hiressensors",
+        "diableavionics_mountBI"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 30,
+            "locations": [
+                   267.5,       62
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 330,
+            "locations": [
+                   267.5,      -62
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 150,
+            "locations": [
+                  -278.5,       50
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 210,
+            "locations": [
+                  -278.5,      -50
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 12,
+            "locations": [
+                   175.5,       92
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 348,
+            "locations": [
+                   175.5,      -92
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 60,
+            "locations": [
+                   157.5,       87
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 300,
+            "locations": [
+                   157.5,      -87
+            ]
+        },
+        {
+            "id": "WS 008",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 90,
+            "locations": [
+                   139.5,       92
+            ]
+        },
+        {
+            "id": "WS 009",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 270,
+            "locations": [
+                   139.5,      -92
+            ]
+        },
+        {
+            "id": "WS 010",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 90,
+            "locations": [
+                  -158.5,       92
+            ]
+        },
+        {
+            "id": "WS 011",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 270,
+            "locations": [
+                  -158.5,      -92
+            ]
+        },
+        {
+            "id": "WS 012",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 120,
+            "locations": [
+                  -176.5,       87
+            ]
+        },
+        {
+            "id": "WS 013",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 240,
+            "locations": [
+                  -176.5,      -87
+            ]
+        },
+        {
+            "id": "WS 014",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 180,
+            "locations": [
+                  -194.5,       92
+            ]
+        },
+        {
+            "id": "WS 015",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 180,
+            "locations": [
+                  -194.5,      -92
+            ]
+        },
+        {
+            "id": "WS 016",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 153.5,
+            "locations": [
+                  -139.5,       69
+            ]
+        },
+        {
+            "id": "WS 017",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 206.5,
+            "locations": [
+                  -139.5,      -69
+            ]
+        },
+        {
+            "id": "WS 018",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 210,
+            "angle": 60,
+            "locations": [
+                     5.5,       66
+            ]
+        },
+        {
+            "id": "WS 019",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 210,
+            "angle": 300,
+            "locations": [
+                     5.5,      -66
+            ]
+        },
+        {
+            "id": "WS 020",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 210,
+            "angle": 50,
+            "locations": [
+                    51.5,       71
+            ]
+        },
+        {
+            "id": "WS 021",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 210,
+            "angle": 310,
+            "locations": [
+                    51.5,      -71
+            ]
+        },
+        {
+            "id": "WS 022",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 210,
+            "angle": 25,
+            "locations": [
+                    97.5,       76
+            ]
+        },
+        {
+            "id": "WS 023",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 210,
+            "angle": 335,
+            "locations": [
+                    97.5,      -76
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -181, 138.5
+            ],
+            "length": 30,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "DiableAvionicsTrail"
+        },
+        {
+            "location": [
+                -181, -138.5
+            ],
+            "length": 30,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "DiableAvionicsTrail"
+        },
+        {
+            "location": [
+                -186, 126.5
+            ],
+            "length": 30,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "DiableAvionicsTrail"
+        },
+        {
+            "location": [
+                -186, -126.5
+            ],
+            "length": 30,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "DiableAvionicsTrail"
+        },
+        {
+            "location": [
+                -252, 100.5
+            ],
+            "length": 30,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "DiableAvionicsTrail"
+        },
+        {
+            "location": [
+                -252, -100.5
+            ],
+            "length": 30,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "DiableAvionicsTrail"
+        },
+        {
+            "location": [
+                -250, 74.5
+            ],
+            "length": 30,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "DiableAvionicsTrail"
+        },
+        {
+            "location": [
+                -250, -74.5
+            ],
+            "length": 30,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "DiableAvionicsTrail"
+        },
+        {
+            "location": [
+                -251, 87.5
+            ],
+            "length": 30,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "DiableAvionicsTrail"
+        },
+        {
+            "location": [
+                -251, -87.5
+            ],
+            "length": 30,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "DiableAvionicsTrail"
+        }
+    ],
+    "bounds": [
+          -300.5,    -48.5,
+          -292.5,    -75.5,
+            -249,    -68.5,
+            -249,   -105.5,
+          -226.5,     -121,
+        
+            -213,     -121,
+            -203,     -116,
+          -194.5,     -116,
+          -183.5,     -122,
+          -178.5,     -144,
+        
+          -154.5,   -147.5,
+            -164,     -162,
+          -155.5,     -166,
+          -137.5,     -152,
+            -134,   -165.5,
+        
+          -126.5,   -167.5,
+            -120,     -213,
+          -114.5,   -213.5,
+            -111,     -209,
+            -114,     -153,
+        
+           -20.5,   -153.5,
+            -9.5,     -171,
+            -3.5,   -166.5,
+             -15,   -144.5,
+             2.5,     -125,
+        
+              78,   -116.5,
+             203,   -120.5,
+             204,   -132.5,
+           193.5,     -135,
+           210.5,   -139.5,
+        
+             217,   -102.5,
+             214,    -75.5,
+             299,    -75.5,
+             299,    -47.5,
+           282.5,    -32.5,
+        
+           282.5,     32.5,
+             299,     47.5,
+             299,     75.5,
+             214,     75.5,
+             217,    102.5,
+        
+           210.5,    139.5,
+           193.5,      135,
+             204,    132.5,
+             203,    120.5,
+              78,    116.5,
+        
+             2.5,      125,
+             -15,    144.5,
+            -3.5,    166.5,
+            -9.5,      171,
+           -20.5,    153.5,
+        
+            -114,      153,
+            -111,      209,
+          -114.5,    213.5,
+            -120,      213,
+          -126.5,    167.5,
+        
+            -134,    165.5,
+          -137.5,      152,
+          -155.5,      166,
+            -164,      162,
+          -154.5,    147.5,
+        
+          -178.5,      144,
+          -183.5,      122,
+          -194.5,      116,
+            -203,      116,
+            -213,      121,
+        
+          -226.5,      121,
+            -249,    105.5,
+            -249,     68.5,
+          -292.5,     75.5,
+          -300.5,     48.5
+    # 70 points total.
+    ]
+}

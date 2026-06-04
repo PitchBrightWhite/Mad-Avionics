@@ -1,0 +1,33 @@
+{
+    "hullName": "Starboard Base Structure",
+    "hullId": "diableavionics_godhead_base_r",
+    "hullSize": "FRIGATE",
+    "style": "HIGH_TECH",
+    "spriteName": "graphics/da/ships/diableavionics_godhead_base_r.png",
+    "height": 362,
+    "width": 97,
+    "center": [
+        1.5, -82
+    ],
+    "collisionRadius": 6,
+    "coversColor": "",
+    "shieldCenter": [
+        8.5, -4.5
+    ],
+    "shieldRadius": 0,
+    "viewOffset": 0,
+    "builtInMods": [
+        "always_detaches",
+        "reduced_explosion",
+        "madavionics_junk"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [],
+    "engineSlots": [],
+    "bounds": [
+            -8.5,        0,
+              10,        0,
+            -1.5,       16
+    ]
+}

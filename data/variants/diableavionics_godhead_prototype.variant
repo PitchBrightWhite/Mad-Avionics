@@ -1,0 +1,33 @@
+{
+    "displayName": "Prototype 0x0666",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "diableavionics_godhead",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "diableavionics_godhead_prototype",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 012": "diableavionics_magicboxPodbuiltin",
+                "WS 014": "diableavionics_thrush",
+                "WS 015": "diableavionics_thrush",
+                "WS 016": "diableavionics_magicboxPodbuiltin",
+                "WS 013": "diableavionics_magicboxPodbuiltin",
+                "WS 017": "diableavionics_magicboxPodbuiltin"
+            }
+        }
+    ],
+    "modules": {
+        "LEFT_WING": "diableavionics_godhead_l_b_prototype",
+        "RIGHT_WING": "diableavionics_godhead_r_b_prototype",
+        "LEFT_BULWARK": "diableavionics_godhead_l_f_prototype",
+        "RIGHT_BULWARK": "diableavionics_godhead_r_f_prototype",
+        "CENTRAL": "diableavionics_godhead_c_prototype",
+        "RIGHT BASE": "diableavionics_godhead_base_r_prototype",
+        "LEFT BASE": "diableavionics_godhead_base_l_prototoype"
+    }
+}

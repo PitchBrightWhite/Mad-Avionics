@@ -1,0 +1,41 @@
+{
+    "displayName": "Resplendant",
+    "fluxCapacitors": 4,
+    "fluxVents": 20,
+    "goalVariant": false,
+    "hullId": "diableavionics_flood_t",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "diableavionics_flood_t_resplendant",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 000": "diableavionics_ibis",
+                "WS 002": "diableavionics_ibis",
+                "WS 003": "diableavionics_ibis",
+                "WS 013": "diableavionics_ibis",
+                "WS 012": "diableavionics_ibis",
+                "WS 006": "diableavionics_ibis",
+                "WS 007": "diableavionics_ibis",
+                "WS 004": "diableavionics_burchel",
+                "WS 008": "diableavionics_burchel",
+                "WS 005": "diableavionics_burchel",
+                "WS 009": "diableavionics_burchel",
+                "WS 014": "diableavionics_burchel",
+                "WS 010": "diableavionics_burchel",
+                "WS 011": "diableavionics_burchel",
+                "WS 015": "diableavionics_burchel",
+                "WS 022": "diableavionics_raptor",
+                "WS 023": "diableavionics_raptor",
+                "WS 019": "diableavionics_raptor",
+                "WS 018": "diableavionics_raptor",
+                "WS 020": "diableavionics_raptor",
+                "WS 021": "diableavionics_raptor",
+                "WS 016": "diableavionics_raptor",
+                "WS 017": "diableavionics_raptor"
+            }
+        }
+    ]
+}

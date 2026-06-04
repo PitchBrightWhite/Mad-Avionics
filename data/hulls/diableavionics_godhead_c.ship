@@ -1,0 +1,233 @@
+{
+    "hullName": "Central Hangars",
+    "hullId": "diableavionics_godhead_c",
+    "hullSize": "CRUISER",
+    "style": "HIGH_TECH",
+    "spriteName": "graphics/da/ships/diableavionics_godhead_c.png",
+    "height": 359,
+    "width": 166,
+    "center": [
+        83, 180.5
+    ],
+    "collisionRadius": 192,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 203,
+    "viewOffset": 0,
+    "builtInMods": [
+        "madavionics_godecm",
+        "madavionics_gel",
+        "always_detaches",
+        "diableavionics_mountBI",
+        "reduced_explosion",
+        "diableavionics_universaldecksExtra"
+    ],
+    "builtInWeapons": {
+        "WS 005": "diableavionics_magicboxPodbuiltin",
+        "WS 006": "diableavionics_magicboxPodbuiltin",
+        "WS 008": "diableavionics_magicboxPodbuiltin",
+        "WS 009": "diableavionics_magicboxPodbuiltin",
+        "WS 010": "diableavionics_godheadEcmModuleSystem"
+    },
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 005",
+            "size": "MEDIUM",
+            "type": "BUILT_IN",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 192.5,
+            "locations": [
+                       8,       57
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "MEDIUM",
+            "type": "BUILT_IN",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 167.5,
+            "locations": [
+                       8,      -57
+            ]
+        },
+        {
+            "id": "WS 000",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 90,
+            "angle": 60,
+            "locations": [
+                  -157.5,       61
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 90,
+            "angle": 300,
+            "locations": [
+                  -157.5,      -61
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 90,
+            "angle": 40,
+            "locations": [
+                   -81.5,       61
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 90,
+            "angle": 320,
+            "locations": [
+                   -81.5,      -61
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 90,
+            "angle": 0,
+            "locations": [
+                   143.5,        0
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 90,
+            "angle": 0,
+            "locations": [
+                   123.5,        0
+            ]
+        },
+        {
+            "id": "WS 008",
+            "size": "MEDIUM",
+            "type": "BUILT_IN",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 12.5,
+            "locations": [
+                      39,       64
+            ]
+        },
+        {
+            "id": "WS 009",
+            "size": "MEDIUM",
+            "type": "BUILT_IN",
+            "mount": "TURRET",
+            "arc": 250,
+            "angle": 347.5,
+            "locations": [
+                      39,      -64
+            ]
+        },
+        {
+            "id": "WS 010",
+            "size": "SMALL",
+            "type": "DECORATIVE",
+            "mount": "TURRET",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                    72.5,        0
+            ]
+        },
+        {
+            "id": "LB 000",
+            "size": "LARGE",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                     -43,     27.5,
+                   -16.5,     22.5,
+                   -66.5,     22.5
+            ]
+        },
+        {
+            "id": "LB 001",
+            "size": "LARGE",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                     -43,    -27.5,
+                   -16.5,    -22.5,
+                   -66.5,    -22.5
+            ]
+        },
+        {
+            "id": "LB 004",
+            "size": "LARGE",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                    -119,     27.5,
+                  -142.5,     22.5,
+                  -168.5,     22.5,
+                   -92.5,     22.5
+            ]
+        },
+        {
+            "id": "LB 005",
+            "size": "LARGE",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                    -119,    -27.5,
+                  -142.5,    -22.5,
+                  -168.5,    -22.5,
+                   -92.5,    -22.5
+            ]
+        }
+    ],
+    "engineSlots": [],
+    "bounds": [
+          -167.5,      -45,
+            -180,      -57,
+            -169,      -70,
+            -109,    -75.5,
+              99,    -74.5,
+        
+              99,      -36,
+             155,    -29.5,
+             155,     29.5,
+              99,       36,
+              99,     74.5,
+        
+            -109,     75.5,
+            -169,       70,
+            -180,       57,
+          -167.5,       45
+    # 14 points total.
+    ]
+}

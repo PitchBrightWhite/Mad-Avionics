@@ -1,0 +1,92 @@
+{
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+	"combatSmallForSmallFleet":{
+	},
+	"combatSmall":{
+	},
+	"combatMedium":{
+	},
+	"combatLarge":{
+	},
+	"combatCapital":{
+		"diableavionics_godhead_prototype":10,	
+	},
+	
+	
+	# hybrid ships with good combat and cargo capacity
+	"combatFreighterSmall":{
+	},
+	"combatFreighterMedium":{
+	},
+	"combatFreighterLarge":{
+	},
+	
+	"civilianRandom":{
+	},
+
+	# carriers
+	"carrierSmall":{
+	},
+	"carrierMedium":{
+	},
+	"carrierLarge":{
+	},
+
+	# phase ships
+	"phaseSmall":{
+	},
+	"phaseMedium":{
+		"diableavionics_mirage_prototype":1,
+	},
+	"phaseLarge":{
+	},
+	"phaseCapital":{
+	},
+
+	# freighters and such
+	"freighterSmall":{
+	},
+	"freighterMedium":{
+	},
+	"freighterLarge":{
+		"diableavionics_flood_f_bountiful":5,
+	},
+	
+	"tankerSmall":{
+	},
+	"tankerMedium":{
+	},
+	"tankerLarge":{
+		"diableavionics_flood_t_resplendant":5,
+	},
+	
+	"personnelSmall":{
+	},
+	"personnelMedium":{
+	},
+	"personnelLarge":{
+	},
+	
+	"linerSmall":{
+	},
+	"linerMedium":{
+	},
+	"linerLarge":{
+	},
+	
+	# utility ships
+	"tug":{
+	},
+	"crig":{
+	},
+	"utility":{
+		"diableavionics_drought_ravenous":5,
+	},
+	
+	"orbitalStationLowTech":{
+	},
+	
+	"battlestationLowTech":{
+	},
+}

@@ -1,0 +1,48 @@
+{
+    "displayName": "Prototype 0x0C2C",
+    "fluxCapacitors": 20,
+    "fluxVents": 11,
+    "goalVariant": true,
+    "hullId": "diableavionics_mirage",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "diableavionics_mirage_prototype",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "diableavionics_uhlan"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "diableavionics_banish",
+                "WS 001": "diableavionics_banish",
+                "WS 002": "diableavionics_banish",
+                "WS 004": "diableavionics_banish"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "diableavionics_microcluster",
+                "WS 010": "diableavionics_microcluster"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "diableavionics_ibis",
+                "WS 005": "diableavionics_ibis",
+                "WS 007": "diableavionics_ibis",
+                "WS 008": "diableavionics_ibis",
+                "WS 009": "diableavionics_ibis"
+            }
+        }
+    ]
+}

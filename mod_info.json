@@ -14,7 +14,11 @@
         {
             "id": "diableavionics",
             "name": "Diable Avionics",
-            "version": "2.9.5.1"
+            "version": {
+                "major": 2,
+                "minor": 9,
+                "patch": "5.1"
+            }
         }
     ],
   "jars": [ "jars/MadAvionics.jar" ],
